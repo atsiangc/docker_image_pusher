@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REGISTRY_PREFIX="registry.cn-hangzhou.aliyuncs.com/1ch0/"
+REGISTRY_PREFIX="registry.cn-hangzhou.aliyuncs.com/atsiang/"
 IMAGES_FILE="images.txt"
 
 # 检查 Docker 是否安装
